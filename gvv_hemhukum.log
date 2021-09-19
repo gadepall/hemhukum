@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.1)  8 SEP 2021 08:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.8.1)  15 SEP 2021 06:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1674,6 +1674,11 @@ LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 
 
 (./2/problems.tex (./2/solution/1/2/Assignment 1.tex) (./2/solution/1/3.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+[]$[]$ \OT1/txr/m/n/12 and $[]$ \OT1/txr/bx/n/12 So-lu-tion: \OT1/txr/m/n/12 2/
+so-lu-
+ []
+
 (./2/solution/9/1/Assignment1.tex
 Overfull \hbox (161.01949pt too wide) in paragraph at lines 39--39
 [] 
@@ -1686,26 +1691,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<2/solution/9/1/QUAD.png, id=69, 462.528pt x 346.896pt>
+<2/solution/9/1/QUAD.png, id=72, 462.528pt x 346.896pt>
 File: 2/solution/9/1/QUAD.png Graphic file (type png)
 <use 2/solution/9/1/QUAD.png>
 Package pdftex.def Info: 2/solution/9/1/QUAD.png  used on input line 45.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-)) [2
+)
+(./2/solution/2/9/2/Assignment1.tex
+Underfull \vbox (badness 1231) has occurred while \output is active []
 
- <./2/solution/9/1/QUAD.png>]
+
+Overfull \hbox (5.39932pt too wide) detected at line 10
+[][][] [] \OT1/txr/m/n/12 + [] []
+ []
+
+<2/solution/2/9/2/QUAD.PNG, id=79, 310.91156pt x 194.22563pt>
+File: 2/solution/2/9/2/QUAD.PNG Graphic file (type png)
+<use 2/solution/2/9/2/QUAD.PNG>
+Package pdftex.def Info: 2/solution/2/9/2/QUAD.PNG  used on input line 43.
+(pdftex.def)             Requested size: 252.0pt x 157.42561pt.
+)) [2 <./2/solution/9/1/QUAD.png> <./2/solution/2/9/2/QUAD.PNG>]
 (./gvv_hemhukum.aux)
 Package rerunfilecheck Info: File `gvv_hemhukum.out' has not changed.
 (rerunfilecheck)             Checksum: 6DABEF4E865E987A59CE804C8AD49618;106.
  ) 
 Here is how much of TeX's memory you used:
- 46658 strings out of 478994
- 1058260 string characters out of 5864752
- 1582001 words of memory out of 5000000
- 63248 multiletter control sequences out of 15000+600000
+ 46690 strings out of 478994
+ 1058787 string characters out of 5864752
+ 1584245 words of memory out of 5000000
+ 63259 multiletter control sequences out of 15000+600000
  481469 words of font info for 193 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 102i,19n,111p,504b,897s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,19n,111p,504b,1039s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/public/txfonts/rtxmi.pfb></usr/share/texmf-dist/fonts/type1/public/txf
 onts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxsc.pfb></usr
@@ -1714,10 +1731,10 @@ nts/type1/public/txfonts/txsy.pfb></usr/share/texmf-dist/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on gvv_hemhukum.pdf (2 pages, 83425 bytes).
+Output written on gvv_hemhukum.pdf (2 pages, 97905 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 28 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 150 PDF objects out of 1000 (max. 8388607)
+ 115 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
